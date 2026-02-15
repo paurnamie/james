@@ -25,52 +25,49 @@ const programData = [
     icon: "🎯",
     title: "Intermediate Training",
     features: [
-      "Advanced strokes",
-      "Match strategies",
-      "Fitness training",
-      "3 sessions / week"
+      "Improved stroke timing and control",
+      "Faster footwork and recovery",
+      "Shot variation and placement",
+      "Basic tactical understanding",
     ],
     details: [
-      { label: "Duration", value: "12 weeks" },
-      { label: "Coach", value: "Coach Marcus" },
-      { label: "Price", value: "₹9,500 / month" }
+      { label: "Duration", value: "6 Days / weeks" },
+      { label: "Price", value: "₹3,500 / month" }
     ],
     description:
       "For club-level players wanting to refine technique and tactics."
   },
   {
     icon: "🏆",
-    title: "Advanced Track",
+    title: "Adult Training",
     features: [
-      "Elite coaching",
-      "Competition planning",
-      "Sports science",
-      "Daily training"
+      "Structured training and Technical improvement",
+      "Footwork and movement drills",
+      "Tactical awareness and match strategy",
+      "Guided matchplay and performance feedback"
     ],
     details: [
-      { label: "Duration", value: "Seasonal" },
-      { label: "Coach", value: "Performance Team" },
-      { label: "Price", value: "Custom plan" }
+      { label: "Duration", value: "6 Days / Week" },
+      { label: "Beginners", value: "₹3,000 / month" },
+      { label: "Elites", value: "₹3,500 / month" }
     ],
     description:
       "Designed for athletes targeting national and international competition."
   },
   {
     icon: "⚡",
-    title: "Private Sessions",
+    title: "Weekend Sessions",
     features: [
-      "1-on-1 coaching",
-      "Personalised plans",
-      "Video feedback",
-      "Flexible scheduling"
+      "Complete technical and footwork development",
+      "Focused drill-based practice",
+      "Guided matchplay sessions",
+      "Designed for busy students and working professionals"
     ],
     details: [
-      { label: "Duration", value: "Per session" },
-      { label: "Coach", value: "Assigned Coach" },
-      { label: "Price", value: "₹1,200 / session" }
+      { label: "Price", value: "₹2000 / Month" }  
     ],
     description:
-      "Rapid improvement through personalised one-on-one coaching."
+      "Focused weekend training designed to sharpen skills and boost performance efficiently."
   }
 ];
 
