@@ -5,15 +5,18 @@ const programData = [
     icon: "🏸",
     title: "Beginner Program",
     features: [
-      "Basic techniques",
-      "Footwork training",
-      "Game rules",
-      "2 sessions / week"
+      "Grip Correction and Basic Strokes",
+      "Footwork and Movement",
+      "Serve and Rally Control",
+      "Court Positioning",
+      "Basic Singles Game Play"
     ],
     details: [
-      { label: "Duration", value: "8 weeks" },
-      { label: "Coach", value: "Coach Sarah" },
-      { label: "Price", value: "₹6,000 / month" }
+
+      { label: "3 Days / Week", value: "₹2,500 / Month" },
+      { label: "5 Days / Week", value: "₹3,000 / Month" }
+
+      
     ],
     description:
       "This program builds the fundamentals and is ideal for beginners."
@@ -37,7 +40,7 @@ const programData = [
   },
   {
     icon: "🏆",
-    title: "Championship Track",
+    title: "Advanced Track",
     features: [
       "Elite coaching",
       "Competition planning",

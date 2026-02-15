@@ -261,14 +261,14 @@ body{
   font-weight: 600;
   color: #020202;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.1px;
 }
 
 /* GRID LAYOUT */
 .flip-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 cards per row */
-  gap: 28px;
+  gap: 18px;
   margin-top: 48px;
   max-width: 1400px;  /* prevents empty side space */
   margin-left: auto;
@@ -318,7 +318,7 @@ body{
 
   display: flex;
   flex-direction: column;
-  gap: 18px; /* natural vertical rhythm */
+  gap: 0.25px; /* natural vertical rhythm */
 
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
@@ -364,7 +364,7 @@ body{
   margin-top: 8px;
   display: flex;
   flex-direction: column;
-  gap: 14px;   /* ⬅ fills space cleanly */
+  gap: 0.25px;   /* ⬅ fills space cleanly */
   color: rgb(75, 75, 75);
 }
 
@@ -393,7 +393,7 @@ body{
 
 /* DESCRIPTION */
 .program-desc{
-  margin-top:12px;
+  margin-top:6px;
   line-height:1.5;
   color:#374151;
 }

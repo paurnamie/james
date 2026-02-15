@@ -18,9 +18,8 @@ const coaches = [
   {
     name: "Athul Anand",
     role: "Assistant Coach",
-    experience: "10+ Years Coaching Experience",
-    specialty: "Advanced Match Strategy & Skill Development",
-    image: "/coach3.jpg",
+    experience: "State Level Player",
+    image: "/coach3.jpeg",
   },
 ];
 
